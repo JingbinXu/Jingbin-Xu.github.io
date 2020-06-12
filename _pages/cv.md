@@ -11,36 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Accounting, Liaoning University, 2017
+* M.S. in Statistics, University of California Irvine, 2019
+* Ph.D in Statistics, Virginia Tech, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 05/19 - 05/20: Statistician and Data Manager
+  * NeoMedix Corporation, Tustin, CA, USA
+  * I led a team of engineers and programmers to design statistical analysis plans and clinical trials. We designed an automatic error detection system to improve the accuracy and completeness of clinical database. We also developed data visulization systems for doctors to monitor and analyze patients' data.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 07/18 - 09/18: Data Scientist
+  * Accelerize Inc., Newport Beach, CA, USA
+  * I designed the data visualization components embodied in the advertising platform dashboard and created data pipline using AWS.
   
+* 10/16 - Present: Data Science Mentor
+  * Coursera Data Science Specilization by Johns Hopkins University
+  * I mentored in the Coursera student community forum on topics including R, Git and introduction to machine learning concepts. On 2017, I was honored as top ten spotlight mentor.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* R
+* Python
+* SAS
+* Java
+* Julia
   
 Talks
 ======
@@ -50,10 +45,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Winter 2018 & Spring 2018: STATS 7 Basic Statistics
+  * University of California Irvine
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* China National Basketball Athlete
+* Hospice Volunteer
